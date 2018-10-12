@@ -8,7 +8,7 @@ const quotes = [
     image: 'ron.png'
   },
   {
-    quote: "I call this turf ‘n’ turf. It's a 16 oz T-bone and a 24 oz porterhouse. Also, whiskey and a cigar. I am going to consume all of this at the same time because I am a free American.",
+    quote: "I call this turf 'n' turf. It's a 16 oz T-bone and a 24 oz porterhouse. Also, whiskey and a cigar. I am going to consume all of this at the same time because I am a free American.",
     image: 'ron.png'
   },
   {
@@ -108,7 +108,7 @@ const quotes = [
     image: 'ron.png'
   },
   {
-    quote: "Give a man a fish and feed him for a day. Don't teach a man to fish… and feed yourself. He's a grown man. And fishing's not that hard.",
+    quote: "Give a man a fish and feed him for a day. Don't teach a man to fish... and feed yourself. He's a grown man. And fishing's not that hard.",
     image: 'ron.png'
   },
   {
@@ -120,7 +120,7 @@ const quotes = [
     image: 'ron.png'
   },
   {
-    quote: "America: The only country that matters. If you want to experience other ‘cultures,’ use an atlas or a ham radio.",
+    quote: "America: The only country that matters. If you want to experience other 'cultures,' use an atlas or a ham radio.",
     image: 'ron.png'
   },
   {
