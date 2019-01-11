@@ -8,6 +8,9 @@ function randomQuote(imageSrc) {
   if (chosenQuote.image === 'ron.png') {
     document.getElementById('quoteImg').classList.add('ron-img');
   }
+  else if (chosenQuote.image === 'april.png') {
+    document.getElementById('quoteImg').classList.add('april-img');
+  }
 }
 
 randomQuote();

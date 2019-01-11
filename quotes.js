@@ -422,5 +422,37 @@ const quotes = [
   {
     quote: 'I would like to be president some day, so, no, I have not smoked marijuana.',
     image: 'knope.png'
+  },
+  {
+    quote: "Time is money; Money is power; Power is pizza; Pizza is knowledge. Let's go!",
+    image: 'april.png'
+  },
+  {
+    quote: "I really only listen to, like, German death reggae, Halloween sound effects from the 1950s, and Bette Midler. Obviously.",
+    image: 'april.png'
+  },
+  {
+    quote: "I'll have a glass of your most expensive red wine mixed with a glass of your cheapest white wine served in a dog bowl. Silly straws all around, please.",
+    image: 'april.png'
+  },
+  {
+    quote: "Horizons are dumb. Never broaden your horizons.",
+    image: 'april.png'
+  },
+  {
+    quote: "I declare everything you are saying is stupid.",
+    image: 'april.png'
+  },
+  {
+    quote: "The air is so fresh. It’s disgusting.",
+    image: 'april.png'
+  },
+  {
+    quote: "Ugh. I hate talking to people about things.",
+    image: 'april.png'
+  },
+  {
+    quote: "We have a couple of house rules, though. You can't use the front door. You have to climb in through the back window. No personal phone conversations. If you ever speak to me in Spanish, please use the formal 'usted.' And no electricity after 6:00 PM. \nA couple more rules: if you ever watch a sad movie, you have to wear mascara so we can see whether or not you've been crying. There's no noise allowed on Mondays. And no TV after breakfast.",
+    image: 'april.png'
   }
 ]
