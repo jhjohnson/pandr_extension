@@ -444,7 +444,7 @@ const quotes = [
     image: 'april.png'
   },
   {
-    quote: "The air is so fresh. It’s disgusting.",
+    quote: "The air is so fresh. It's disgusting.",
     image: 'april.png'
   },
   {
