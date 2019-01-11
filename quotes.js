@@ -422,5 +422,9 @@ const quotes = [
   {
     quote: 'I would like to be president some day, so, no, I have not smoked marijuana.',
     image: 'knope.png'
+  },
+  {
+    quote: "Time is money; Money is power; Power is pizza; Pizza is knowledge. Let's go!",
+    image: 'april.png'
   }
 ]
